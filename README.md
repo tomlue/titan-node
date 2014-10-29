@@ -1,4 +1,4 @@
-titan-node
+titan-node (updated pom.xml for titan 0.5.1)
 ==========
 
 Wrapper around [gremlin-node](https://github.com/inolen/gremlin-node) to provide out of the box support for [Titan graph database](https://github.com/thinkaurelius/titan).
